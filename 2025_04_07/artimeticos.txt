@@ -1,0 +1,47 @@
+1 - O uso de parenteses em funções aritméticas garante que as operações nele contidas sejam resolvidas com maior prioridade. 
+
+2 -
+a) a + b * c + d
+b) (a+b) * c + d * (a - 2 * b)
+c) (2 * a + (c - d) *2) * 2
+d) (x + y) * (x - y)
+
+3 -
+a = 3.0; b = 2.0; c = 0.5; 
+s = 9.0;  z =12.0; d= 16; y = 2; p = 4; q = 6; r = 24, x = 2;
+
+a) x + y – z * a
+2 + 2 – 12 * 3
+2 + 2 - 36
+4 - 36
+-32
+
+b) d / y
+16 / 2
+8
+
+c) y % d
+2 % 16
+2
+
+d) p * (r % q) – q/2
+4 * (24 % 6) - 6 / 2
+4 * (0) - 6 / 2
+0 - 3
+-3
+
+
+e) (a-b*y-d)
+(3.0 - 2.0 * 2 - 16)
+(3.0 - 4.0 - 16)
+(-1.0 - 16)
+(-17.0)
+-17.0
+
+f) ((z/a) + b * a) – d
+((12.0 / 3.0) + 2.0 * 3.0) - 16
+((4.0) + 2.0 * 3.0) - 16
+(4.0 + 6.0) - 16
+(10.0) - 16
+-6.0
+
