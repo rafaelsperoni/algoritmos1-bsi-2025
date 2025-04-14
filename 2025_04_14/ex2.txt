@@ -1,0 +1,4 @@
+São utilizados quando deseja-se que o algoritmo tome decisões.
+Em outras palavras, quando deseja-se que a execução de alguma
+instrução dependa de uma condição, que poderá estar associada algoritmo
+valor de variáveis, por exemplo.

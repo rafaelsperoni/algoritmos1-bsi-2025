@@ -1,0 +1,4 @@
+Considerando que o teste da linha 4 utiliza um operador relacional
+"maior ou igual", caso os dois valores sejam iguais, esta condição
+será satisfeita.
+Assim, a linha 5 é executada

@@ -1,0 +1,6 @@
+A sintaxe, no python
+
+if <condicao>:  #inicio do bloco do if
+   instrucao1
+   instrucao2
+#fim do bloco do if

@@ -1,0 +1,6 @@
+Em um algoritmo com condição, há desvios condicionais.
+Estes desvios fazem com que determinadas instruções somente sejam
+executadas se a condição for satisfeita.
+Normalmente, a condição se dá na forma de uma expressão lógica, 
+com operadores lógicos e relacionais.
+
