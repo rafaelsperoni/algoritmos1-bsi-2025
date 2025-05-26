@@ -8,7 +8,9 @@ segundo
 inferior = int(input("Informe limite inferior: "))
 superior = int(input("Informe limite superior: "))
 x = inferior
+soma = 0
 while x<=superior:
     if x%2==0:
         print(x)
+        soma = soma + x
     x+=1
